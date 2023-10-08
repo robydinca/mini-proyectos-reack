@@ -1,0 +1,16 @@
+.freecodecamp-logo-contenedor {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(3, 3, 27);
+    position: absolute;
+    top: 0;
+  
+  }
+  
+  .freecodecamp-logo {
+    height:120px;
+  }
+  
